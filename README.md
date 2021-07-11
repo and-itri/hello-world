@@ -3,4 +3,4 @@ Just another repository
 
 Hi Code!
 
-This is AND.
+This is ET.
